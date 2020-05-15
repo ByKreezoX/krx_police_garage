@@ -8,4 +8,6 @@ This is a garage for LSPD in PMenu by KreezoX
 https://github.com/ByKreezoX
 ----------------------------
 
-Support :【ツ】KreezoX#1000
+If you need help with this script, contact me:
+Support :【ツ】KreezoX#1000 
+
