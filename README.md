@@ -5,3 +5,5 @@ This is a garage for LSPD in PMenu by KreezoX
 ---------------------------------------------
 2 / start KrX-Police in your server.cfg
 ---------------------------------------------
+https://github.com/ByKreezoX
+----------------------------
